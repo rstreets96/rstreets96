@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=22&pause=2000&color=1ABC9C&background=323B4C&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Reed!)](https://git.io/typing-svg)
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=rstreets96&color=brightgreen" alt="watching_count" />
- </p>
  
 *An Embedded Software Engineer with a passion for sustainability! I graduated with a B.S. in Electrical Engineering in 2019, and I've spent the last three and a half years with Rad Power Bikes! In the fast-paced startup environment I had my hands on every part of the electrical system, especially the motor controller and its firmware. I'm currently looking for my next adventure, so feel free to reach out!*
 
 *Unfortunately, I've never been very active here on my personal Github account, so I've been working to change that for the past few weeks! Check out my [ESP32 BLDC](https://github.com/rstreets96/ESP32_BLDC) project that I'm working on to see some of what I've learned over the past few years!*
+
+<p align="right"> 
+<img src="https://komarev.com/ghpvc/?username=rstreets96&color=brightgreen" alt="watching_count" />
+ </p>
  
  <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
  
